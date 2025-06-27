@@ -9,3 +9,8 @@ def add():
 
 def mul():
     print(a*b)   
+
+
+
+a =20
+c = 30    
